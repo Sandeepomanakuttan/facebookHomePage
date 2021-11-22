@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    overflow-x: hidden;
 
 }
 
@@ -127,7 +128,7 @@
     color: #2e81f4;
 }
 .story{
-    background-image: url("image2.png");
+    background-image: url("image1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 120px;
@@ -151,7 +152,7 @@
     margin-top:117px ;
     bottom: 20px;
     left: 20px;
-    color: gray;
+    color: white;
 }
 
 .storyReel{
